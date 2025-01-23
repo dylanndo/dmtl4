@@ -1,7 +1,10 @@
 {"log":
  [{"message":
-   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/sullivan/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/hw/hw3/syntax.lean -R ./././. -o ././.lake/build/lib/DMT1/hw/hw3/syntax.olean -i ././.lake/build/lib/DMT1/hw/hw3/syntax.ilean -c ././.lake/build/ir/DMT1/hw/hw3/syntax.c --json",
+   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/dyldolla/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/hw/hw3/syntax.lean -R ./././. -o ././.lake/build/lib/DMT1/hw/hw3/syntax.olean -i ././.lake/build/lib/DMT1/hw/hw3/syntax.ilean -c ././.lake/build/ir/DMT1/hw/hw3/syntax.c --json",
    "level": "trace"},
+  {"message":
+   "././././DMT1/hw/hw3/syntax.lean:95:21: structure ... :=' has been deprecated in favor of 'structure ... where'.\nnote: this linter can be disabled with `set_option linter.deprecated false`",
+   "level": "warning"},
   {"message": "././././DMT1/hw/hw3/syntax.lean:133:0: { index := 3 } : Var",
    "level": "info"}],
- "depHash": "17675011887418049401"}
+ "depHash": "15475656806646880512"}

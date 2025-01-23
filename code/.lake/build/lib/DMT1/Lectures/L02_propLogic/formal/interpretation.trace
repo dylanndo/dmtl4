@@ -1,6 +1,6 @@
 {"log":
  [{"message":
-   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/sullivan/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L02_propLogic/formal/interpretation.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/interpretation.olean -i ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/interpretation.ilean -c ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/interpretation.c --json",
+   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/dyldolla/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L02_propLogic/formal/interpretation.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/interpretation.olean -i ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/interpretation.ilean -c ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/interpretation.c --json",
    "level": "trace"},
   {"message":
    "././././DMT1/Lectures/L02_propLogic/formal/interpretation.lean:28:41: unused variable `v`\nnote: this linter can be disabled with `set_option linter.unusedVariables false`",
@@ -62,4 +62,4 @@
   {"message":
    "././././DMT1/Lectures/L02_propLogic/formal/interpretation.lean:358:0: [[true, true, true], [true, true, false], [true, false, true], [true, false, false], [false, true, true],\n  [false, true, false], [false, false, true], [false, false, false]]",
    "level": "info"}],
- "depHash": "14120580752193173056"}
+ "depHash": "15573945718385651212"}

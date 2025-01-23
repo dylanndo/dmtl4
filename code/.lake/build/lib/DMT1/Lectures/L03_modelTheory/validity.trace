@@ -1,5 +1,5 @@
 {"log":
  [{"message":
-   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/sullivan/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L03_modelTheory/validity.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L03_modelTheory/validity.olean -i ././.lake/build/lib/DMT1/Lectures/L03_modelTheory/validity.ilean -c ././.lake/build/ir/DMT1/Lectures/L03_modelTheory/validity.c --json",
+   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/dyldolla/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L03_modelTheory/validity.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L03_modelTheory/validity.olean -i ././.lake/build/lib/DMT1/Lectures/L03_modelTheory/validity.ilean -c ././.lake/build/ir/DMT1/Lectures/L03_modelTheory/validity.c --json",
    "level": "trace"}],
- "depHash": "18150380056240270297"}
+ "depHash": "13646418243043973135"}

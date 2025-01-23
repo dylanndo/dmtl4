@@ -1,6 +1,6 @@
 {"log":
  [{"message":
-   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/sullivan/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L02_propLogic/formal/domain.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/domain.olean -i ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/domain.ilean -c ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/domain.c --json",
+   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/dyldolla/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L02_propLogic/formal/domain.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/domain.olean -i ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/domain.ilean -c ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/domain.c --json",
    "level": "trace"},
   {"message":
    "././././DMT1/Lectures/L02_propLogic/formal/domain.lean:27:0: \"F\"",
@@ -14,4 +14,4 @@
   {"message":
    "././././DMT1/Lectures/L02_propLogic/formal/domain.lean:42:0: \"F\"",
    "level": "info"}],
- "depHash": "162792072804869586"}
+ "depHash": "771377792612839499"}

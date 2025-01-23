@@ -1,5 +1,5 @@
 {"log":
  [{"message":
-   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/sullivan/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L02_propLogic/formal/identities.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/identities.olean -i ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/identities.ilean -c ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/identities.c --json",
+   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/dyldolla/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L02_propLogic/formal/identities.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/identities.olean -i ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/identities.ilean -c ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/identities.c --json",
    "level": "trace"}],
- "depHash": "6621809326545407248"}
+ "depHash": "14217954874865422023"}

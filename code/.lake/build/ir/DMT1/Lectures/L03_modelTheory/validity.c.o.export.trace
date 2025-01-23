@@ -1,5 +1,5 @@
 {"log":
  [{"message":
-   ".> /Users/sullivan/.elan/toolchains/leanprover--lean4---stable/bin/leanc -c -o ././.lake/build/ir/DMT1/Lectures/L03_modelTheory/validity.c.o.export ././.lake/build/ir/DMT1/Lectures/L03_modelTheory/validity.c -O3 -DNDEBUG -DLEAN_EXPORTING",
+   ".> /Users/dyldolla/.elan/toolchains/leanprover--lean4---stable/bin/leanc -c -o ././.lake/build/ir/DMT1/Lectures/L03_modelTheory/validity.c.o.export ././.lake/build/ir/DMT1/Lectures/L03_modelTheory/validity.c -O3 -DNDEBUG -DLEAN_EXPORTING",
    "level": "trace"}],
- "depHash": "7461439503973877337"}
+ "depHash": "11997797331937582235"}

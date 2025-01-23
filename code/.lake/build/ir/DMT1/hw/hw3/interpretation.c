@@ -36,7 +36,6 @@ LEAN_EXPORT lean_object* l___private_DMT1_hw_hw3_interpretation_0__DMT1_hw_hw3_s
 lean_object* l_List_appendTR___rarg(lean_object*, lean_object*);
 static lean_object* l_DMT1_hw_hw3_semantics_anExpr___closed__3;
 LEAN_EXPORT lean_object* l___private_DMT1_hw_hw3_interpretation_0__DMT1_hw_hw3_semantics_interpsFromNumVars_mk__interps__helper___boxed(lean_object*, lean_object*);
-uint8_t lean_nat_dec_eq(lean_object*, lean_object*);
 LEAN_EXPORT lean_object* l___private_DMT1_hw_hw3_interpretation_0__DMT1_hw_hw3_semantics_numVarsFromExpr_maxVariableIndex(lean_object*);
 LEAN_EXPORT lean_object* l___private_DMT1_hw_hw3_interpretation_0__DMT1_hw_hw3_semantics_overrideValue___boxed(lean_object*, lean_object*, lean_object*, lean_object*);
 LEAN_EXPORT uint8_t l___private_DMT1_hw_hw3_interpretation_0__DMT1_hw_hw3_semantics_tf(lean_object*);

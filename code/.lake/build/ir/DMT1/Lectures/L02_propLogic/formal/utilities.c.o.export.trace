@@ -1,5 +1,5 @@
 {"log":
  [{"message":
-   ".> /Users/sullivan/.elan/toolchains/leanprover--lean4---stable/bin/leanc -c -o ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/utilities.c.o.export ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/utilities.c -O3 -DNDEBUG -DLEAN_EXPORTING",
+   ".> /Users/dyldolla/.elan/toolchains/leanprover--lean4---stable/bin/leanc -c -o ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/utilities.c.o.export ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/utilities.c -O3 -DNDEBUG -DLEAN_EXPORTING",
    "level": "trace"}],
- "depHash": "12920374759439413545"}
+ "depHash": "6778882366841637024"}

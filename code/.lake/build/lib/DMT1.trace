@@ -1,5 +1,5 @@
 {"log":
  [{"message":
-   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/sullivan/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1.lean -R ./././. -o ././.lake/build/lib/DMT1.olean -i ././.lake/build/lib/DMT1.ilean -c ././.lake/build/ir/DMT1.c --json",
+   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/dyldolla/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1.lean -R ./././. -o ././.lake/build/lib/DMT1.olean -i ././.lake/build/lib/DMT1.ilean -c ././.lake/build/ir/DMT1.c --json",
    "level": "trace"}],
- "depHash": "9436109780671961184"}
+ "depHash": "12916415672035004697"}

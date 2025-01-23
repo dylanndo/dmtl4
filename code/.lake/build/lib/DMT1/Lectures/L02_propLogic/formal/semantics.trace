@@ -1,8 +1,8 @@
 {"log":
  [{"message":
-   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/sullivan/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L02_propLogic/formal/semantics.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/semantics.olean -i ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/semantics.ilean -c ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/semantics.c --json",
+   ".> LEAN_PATH=././.lake/build/lib DYLD_LIBRARY_PATH= /Users/dyldolla/.elan/toolchains/leanprover--lean4---stable/bin/lean ././././DMT1/Lectures/L02_propLogic/formal/semantics.lean -R ./././. -o ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/semantics.olean -i ././.lake/build/lib/DMT1/Lectures/L02_propLogic/formal/semantics.ilean -c ././.lake/build/ir/DMT1/Lectures/L02_propLogic/formal/semantics.c --json",
    "level": "trace"},
   {"message":
    "././././DMT1/Lectures/L02_propLogic/formal/semantics.lean:113:0: ∀ (e : Expr) (i : Interp), eval e i = true : Prop",
    "level": "info"}],
- "depHash": "14332277554187091960"}
+ "depHash": "13296676833194891998"}
